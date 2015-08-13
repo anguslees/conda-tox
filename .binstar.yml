@@ -1,0 +1,4 @@
+package: tox
+script:
+  - conda build .
+build_targets: conda
